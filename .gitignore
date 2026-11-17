@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+**/output_data/
+**/output_digests/
+**/published_bundles/

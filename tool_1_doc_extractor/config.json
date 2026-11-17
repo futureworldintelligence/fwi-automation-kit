@@ -1,0 +1,14 @@
+{
+  "input_folder": "input_pdfs",
+  "output_folder": "output_data",
+  "extract_metadata": true,
+  "include_full_text": true,
+  "keyword_tags": [
+    "total",
+    "invoice",
+    "due date",
+    "summary",
+    "action",
+    "budget"
+  ]
+}

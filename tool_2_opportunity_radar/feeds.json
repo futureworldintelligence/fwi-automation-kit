@@ -1,0 +1,23 @@
+{
+  "output_folder": "output_digests",
+  "max_items_per_feed": 15,
+  "include_keywords": [
+    "python",
+    "ai",
+    "automation",
+    "data",
+    "remote",
+    "grant",
+    "climate"
+  ],
+  "feeds": [
+    {
+      "name": "We Work Remotely - Programming",
+      "url": "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+    },
+    {
+      "name": "Hacker News - Show HN",
+      "url": "https://hnrss.org/show"
+    }
+  ]
+}
