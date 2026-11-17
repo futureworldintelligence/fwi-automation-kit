@@ -1,23 +1,12 @@
-# The Solopreneur's Local AI & Automation Starter Kit (v1.0)
+# Future World Intelligence (FWI) — Local AI & Automation Kit (v1.0)
 
-Three lightweight, privacy-first Python + JSON micro-tools that run 100% locally on your computer—no monthly SaaS subscriptions, no API keys required.
+Official proprietary automation utilities developed by **Future World Intelligence (FWI)** (`futureworldintelligence@gmail.com`). 
+Designed for high-performance solopreneurs, researchers, and digital agencies.
 
-## What's Inside
-1. Tool 1 — Local PDF & Document Extractor (tool_1_doc_extractor/)
-   - Converts client PDFs, invoices, and reports in input_pdfs/ into structured .json and .csv summaries.
-   - Customize keyword tags in config.json.
-2. Tool 2 — Automated Opportunity & Lead Radar (tool_2_opportunity_radar/)
-   - Scans RSS feeds configured in feeds.json, filters by your target keywords, deduplicates links, and exports a daily Markdown digest + JSON feed.
-3. Tool 3 — Bulk Content & SEO Packager (tool_3_content_packager/)
-   - Turns Markdown drafts in drafts/ into publish-ready bundles with URL slugs, read times, meta descriptions, social hooks, and Schema.org JSON-LD.
+## Included Modules
+1. **Tool 1 (`tool_1_doc_extractor/`)**: FWI Document & Invoice Digitizer (`.pdf` to structured JSON/CSV).
+2. **Tool 2 (`tool_2_opportunity_radar/`)**: FWI Automated Global Feed & Opportunity Radar.
+3. **Tool 3 (`tool_3_content_packager/`)**: FWI Bulk SEO & Article Schema Packager.
 
-## Quick Start (Linux / macOS / Windows WSL)
-1. Create and activate a virtual environment:
-   python3 -m venv .venv
-   source .venv/bin/activate
-
-2. Install the single lightweight dependency:
-   pip install -r requirements.txt
-
-3. Run all three tools at once (with included sample files):
-   ./run_all.sh
+## Support & Client Inquiries
+For enterprise licensing, custom deployments, or support, contact us at: **futureworldintelligence@gmail.com**
